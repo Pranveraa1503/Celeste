@@ -1,0 +1,1289 @@
+fileFormatVersion: 2
+guid: 59bbd2b08f9fb0946824ffc6f581c2ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4419207245272849179
+    second: Bridges_0
+  - first:
+      213: -978938595932761890
+    second: Bridges_1
+  - first:
+      213: 4619552979010320299
+    second: Bridges_2
+  - first:
+      213: -7964094763856153742
+    second: Bridges_3
+  - first:
+      213: -5928713052716369325
+    second: Bridges_4
+  - first:
+      213: -2458347662786323051
+    second: Bridges_5
+  - first:
+      213: 502732440738137211
+    second: Bridges_6
+  - first:
+      213: -4276752969576645033
+    second: Bridges_7
+  - first:
+      213: 5169223617025914343
+    second: Bridges_8
+  - first:
+      213: -4847967973376863162
+    second: Bridges_9
+  - first:
+      213: -3602347933649339817
+    second: Bridges_10
+  - first:
+      213: 3761576167961936120
+    second: Bridges_11
+  - first:
+      213: 8102311876266904689
+    second: Bridges_12
+  - first:
+      213: 7419103761710208350
+    second: Bridges_13
+  - first:
+      213: 1167405310055883050
+    second: Bridges_14
+  - first:
+      213: -2325498525974044729
+    second: Bridges_15
+  - first:
+      213: -4748258791055438362
+    second: Bridges_16
+  - first:
+      213: -1000398799335944427
+    second: Bridges_17
+  - first:
+      213: 7551350793846364490
+    second: Bridges_18
+  - first:
+      213: -1675032134624486066
+    second: Bridges_19
+  - first:
+      213: 6823825797905457947
+    second: Bridges_20
+  - first:
+      213: -6998540239343022904
+    second: Bridges_21
+  - first:
+      213: -4852479476045768825
+    second: Bridges_22
+  - first:
+      213: 6278053515679689107
+    second: Bridges_23
+  - first:
+      213: 5717534272316589883
+    second: Bridges_24
+  - first:
+      213: -8221928709733938011
+    second: Bridges_25
+  - first:
+      213: -9175580244413574692
+    second: Bridges_26
+  - first:
+      213: -2494720345927995531
+    second: Bridges_27
+  - first:
+      213: -2245766889658990109
+    second: Bridges_28
+  - first:
+      213: -4082305272396342405
+    second: Bridges_29
+  - first:
+      213: 380422888464905999
+    second: Bridges_30
+  - first:
+      213: -2724366520324821158
+    second: Bridges_31
+  - first:
+      213: 4129925864477081245
+    second: Bridges_32
+  - first:
+      213: -4289767493172946810
+    second: Bridges_33
+  - first:
+      213: 5566442099181476180
+    second: Bridges_34
+  - first:
+      213: -8194699392519077906
+    second: Bridges_35
+  - first:
+      213: 2280929260801706212
+    second: Bridges_36
+  - first:
+      213: 6962183986130883832
+    second: Bridges_37
+  - first:
+      213: -4290205363805962314
+    second: Bridges_38
+  - first:
+      213: 6701698834379133740
+    second: Bridges_39
+  - first:
+      213: -7521958950324595919
+    second: Bridges_40
+  - first:
+      213: -8123510003919537064
+    second: Bridges_41
+  - first:
+      213: -2541574159767652530
+    second: Bridges_42
+  - first:
+      213: 6851373811908886726
+    second: Bridges_43
+  - first:
+      213: -2480927919729319992
+    second: Bridges_44
+  - first:
+      213: 4561225959952366851
+    second: Bridges_45
+  - first:
+      213: -3321621895948207572
+    second: Bridges_46
+  - first:
+      213: 9049579637393596784
+    second: Bridges_47
+  - first:
+      213: -7417987394790604435
+    second: Bridges_48
+  - first:
+      213: 3411305540371932881
+    second: Bridges_49
+  - first:
+      213: -6265091903316267679
+    second: Bridges_50
+  - first:
+      213: 5667170851398436454
+    second: Bridges_51
+  - first:
+      213: 6315277099526284357
+    second: Bridges_52
+  - first:
+      213: 1446909676069843538
+    second: Bridges_53
+  - first:
+      213: 6725523839156209809
+    second: Bridges_54
+  - first:
+      213: 2034115545728070844
+    second: Bridges_55
+  - first:
+      213: -4130523898192003680
+    second: Bridges_56
+  - first:
+      213: -7503560720495114686
+    second: Bridges_57
+  - first:
+      213: -501761862499462499
+    second: Bridges_58
+  - first:
+      213: 9182810127026824987
+    second: Bridges_59
+  - first:
+      213: -5544318403833458607
+    second: Bridges_60
+  - first:
+      213: -7074535037658909605
+    second: Bridges_61
+  - first:
+      213: 3765138779123346791
+    second: Bridges_62
+  - first:
+      213: -8698142399219624615
+    second: Bridges_63
+  - first:
+      213: 9007035716597593568
+    second: Bridges_64
+  - first:
+      213: 166755764979190691
+    second: Bridges_65
+  - first:
+      213: 2264848036209591908
+    second: Bridges_66
+  - first:
+      213: 8883284129553131534
+    second: Bridges_67
+  - first:
+      213: -6334876632281024429
+    second: Bridges_68
+  - first:
+      213: 135331794146237707
+    second: Bridges_69
+  - first:
+      213: 4000704923661224303
+    second: Bridges_70
+  - first:
+      213: 5629816615025135219
+    second: Bridges_71
+  - first:
+      213: -2895973968488547477
+    second: Bridges_72
+  - first:
+      213: 8439073850548289408
+    second: Bridges_73
+  - first:
+      213: -1588411858933190938
+    second: Bridges_74
+  - first:
+      213: 4315125424628059491
+    second: Bridges_75
+  - first:
+      213: 1792315270634468763
+    second: Bridges_76
+  - first:
+      213: -2579746031976292799
+    second: Bridges_77
+  - first:
+      213: 3445308138296049640
+    second: Bridges_78
+  - first:
+      213: 363230061990796823
+    second: Bridges_79
+  - first:
+      213: -7527332140510034726
+    second: Bridges_80
+  - first:
+      213: -4822183946309253639
+    second: Bridges_81
+  - first:
+      213: 3675517630747155708
+    second: Bridges_82
+  - first:
+      213: 8235356580137803875
+    second: Bridges_83
+  - first:
+      213: -4467486044769985080
+    second: Bridges_84
+  - first:
+      213: 968008196456514761
+    second: Bridges_85
+  - first:
+      213: -8875700876339146198
+    second: Bridges_86
+  - first:
+      213: 5642033618601905656
+    second: Bridges_87
+  - first:
+      213: -2437327079999482391
+    second: Bridges_88
+  - first:
+      213: -8805553878787575583
+    second: Bridges_89
+  - first:
+      213: 2190085388876350627
+    second: Bridges_90
+  - first:
+      213: 8841638911288872992
+    second: Bridges_91
+  - first:
+      213: -4396751461572493711
+    second: Bridges_92
+  - first:
+      213: 4976289886345827456
+    second: Bridges_93
+  - first:
+      213: 4777984137568214128
+    second: Bridges_94
+  - first:
+      213: 1518435230222413061
+    second: Bridges_95
+  - first:
+      213: -6297020563562752851
+    second: Bridges_96
+  - first:
+      213: -8918130958781684668
+    second: Bridges_97
+  - first:
+      213: -2786480487380440177
+    second: Bridges_98
+  - first:
+      213: 4089707243732263687
+    second: Bridges_99
+  - first:
+      213: 3977507632020532234
+    second: Bridges_100
+  - first:
+      213: -8717690935682006358
+    second: Bridges_101
+  - first:
+      213: 5058476742331106929
+    second: Bridges_102
+  - first:
+      213: -1018754533469064388
+    second: Bridges_103
+  - first:
+      213: -2046491676420077173
+    second: Bridges_104
+  - first:
+      213: 4901968294010231909
+    second: Bridges_105
+  - first:
+      213: 5402125573174437743
+    second: Bridges_106
+  - first:
+      213: 651944117153408894
+    second: Bridges_107
+  - first:
+      213: -9217631671733868462
+    second: Bridges_108
+  - first:
+      213: -7635753708982262774
+    second: Bridges_109
+  - first:
+      213: -5718436669086900235
+    second: Bridges_110
+  - first:
+      213: -676881811529501855
+    second: Bridges_111
+  - first:
+      213: 4566265761745550109
+    second: Bridges_112
+  - first:
+      213: 7957003695104406445
+    second: Bridges_113
+  - first:
+      213: -4076146425875386284
+    second: Bridges_114
+  - first:
+      213: 2464178900565368751
+    second: Bridges_115
+  - first:
+      213: 5974204158474761492
+    second: Bridges_116
+  - first:
+      213: -8020221793405207487
+    second: Bridges_117
+  - first:
+      213: -5644120925849503401
+    second: Bridges_118
+  - first:
+      213: 3448075950249483676
+    second: Bridges_119
+  - first:
+      213: -4834664198524021214
+    second: Bridges_120
+  - first:
+      213: -4249812287712438979
+    second: Bridges_121
+  - first:
+      213: 2676160647791458392
+    second: Bridges_122
+  - first:
+      213: 665204305389815907
+    second: Bridges_123
+  - first:
+      213: 234398103977305054
+    second: Bridges_124
+  - first:
+      213: -1886536329605551309
+    second: Bridges_125
+  - first:
+      213: -5291555202677843119
+    second: Bridges_126
+  - first:
+      213: -7131464809345480283
+    second: Bridges_127
+  - first:
+      213: 4145987149455319593
+    second: Bridges_128
+  - first:
+      213: 1078199741290100848
+    second: Bridges_129
+  - first:
+      213: 5519992733823638147
+    second: Bridges_130
+  - first:
+      213: -4997191767064033706
+    second: Bridges_131
+  - first:
+      213: 2809127112016936152
+    second: Bridges_132
+  - first:
+      213: 5356385174319274029
+    second: Bridges_133
+  - first:
+      213: -8156515766767489287
+    second: Bridges_134
+  - first:
+      213: 2608633261057940266
+    second: Bridges_135
+  - first:
+      213: -3061604684721764429
+    second: Bridges_136
+  - first:
+      213: 1497466129525003587
+    second: Bridges_137
+  - first:
+      213: 3358495954074920554
+    second: Bridges_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bridges_0
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b125b539d245d30800000000000000
+      internalID: 4419207245272849179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0128c988c1a62f0800000000000000
+      internalID: -978938595932761890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f10f75f2fb1040800000000000000
+      internalID: 4619552979010320299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2733ec2020ad97190800000000000000
+      internalID: -7964094763856153742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ff73774fc9d1570800000000000000
+      internalID: 8439073850548289408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_122
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 101
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8583d752ee1a32520800000000000000
+      internalID: 2676160647791458392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7fdcbcfb462c4b90a3f29770ab179
+      internalID: -5928713052716369325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5e915fe5b70b41a587407806bbf8f
+      internalID: -2458347662786323051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce36d826f288fe4ba24a7d467df3b15
+      internalID: 502732440738137211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32355a2b63c17a84fab548b23cde1b6e
+      internalID: -4276752969576645033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6aee1713c7ed9488eb98e3ab728280
+      internalID: 5169223617025914343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937462be0faac94391e444864e884bc
+      internalID: -4847967973376863162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f824b47728cc014faa9d89e4735ef4c
+      internalID: -3602347933649339817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fd41a98bf3d4489d2e7a00d5c9dc1
+      internalID: 3761576167961936120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667134c4088c86046a40a865bd6541cf
+      internalID: 8102311876266904689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e478aa0a17d4d458d781fbef934a0f
+      internalID: 7419103761710208350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e778daaff1a448ba4d93d01429a6e
+      internalID: 1167405310055883050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31acd410ad0ff3b4790a0126081bad14
+      internalID: -2325498525974044729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb2fdd4e3529c849803b084aee8f406
+      internalID: -4748258791055438362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2287fb986e1b62a4a8c666f974ccbba6
+      internalID: -1000398799335944427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f5c520d36d6ab4588544eacb9d0f7d
+      internalID: 7551350793846364490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e7ef83f82dc14a8c587a0ba8cbf02
+      internalID: -1675032134624486066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233d14f72692b446a0fc113a21b5080
+      internalID: 6823825797905457947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a4397f7cda474e9c22178f7ffe173
+      internalID: -6998540239343022904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cc80e19936a414b9657efbda1a1bcd
+      internalID: -4852479476045768825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6848e8d23ed3d74283410c9c243c9c7
+      internalID: 6278053515679689107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23df756e55984064199fbcdfb2ba80ba
+      internalID: 5717534272316589883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f133df73c5bc2940b8242edeb8ae63b
+      internalID: -8221928709733938011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 335184e2a15086647b6f60aa82758b6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bridges_0: 4419207245272849179
+      Bridges_1: -978938595932761890
+      Bridges_10: -3602347933649339817
+      Bridges_100: 3977507632020532234
+      Bridges_101: -8717690935682006358
+      Bridges_102: 5058476742331106929
+      Bridges_103: -1018754533469064388
+      Bridges_104: -2046491676420077173
+      Bridges_105: 4901968294010231909
+      Bridges_106: 5402125573174437743
+      Bridges_107: 651944117153408894
+      Bridges_108: -9217631671733868462
+      Bridges_109: -7635753708982262774
+      Bridges_11: 3761576167961936120
+      Bridges_110: -5718436669086900235
+      Bridges_111: -676881811529501855
+      Bridges_112: 4566265761745550109
+      Bridges_113: 7957003695104406445
+      Bridges_114: -4076146425875386284
+      Bridges_115: 2464178900565368751
+      Bridges_116: 5974204158474761492
+      Bridges_117: -8020221793405207487
+      Bridges_118: -5644120925849503401
+      Bridges_119: 3448075950249483676
+      Bridges_12: 8102311876266904689
+      Bridges_120: -4834664198524021214
+      Bridges_121: -4249812287712438979
+      Bridges_122: 2676160647791458392
+      Bridges_123: 665204305389815907
+      Bridges_124: 234398103977305054
+      Bridges_125: -1886536329605551309
+      Bridges_126: -5291555202677843119
+      Bridges_127: -7131464809345480283
+      Bridges_128: 4145987149455319593
+      Bridges_129: 1078199741290100848
+      Bridges_13: 7419103761710208350
+      Bridges_130: 5519992733823638147
+      Bridges_131: -4997191767064033706
+      Bridges_132: 2809127112016936152
+      Bridges_133: 5356385174319274029
+      Bridges_134: -8156515766767489287
+      Bridges_135: 2608633261057940266
+      Bridges_136: -3061604684721764429
+      Bridges_137: 1497466129525003587
+      Bridges_138: 3358495954074920554
+      Bridges_14: 1167405310055883050
+      Bridges_15: -2325498525974044729
+      Bridges_16: -4748258791055438362
+      Bridges_17: -1000398799335944427
+      Bridges_18: 7551350793846364490
+      Bridges_19: -1675032134624486066
+      Bridges_2: 4619552979010320299
+      Bridges_20: 6823825797905457947
+      Bridges_21: -6998540239343022904
+      Bridges_22: -4852479476045768825
+      Bridges_23: 6278053515679689107
+      Bridges_24: 5717534272316589883
+      Bridges_25: -8221928709733938011
+      Bridges_26: -9175580244413574692
+      Bridges_27: -2494720345927995531
+      Bridges_28: -2245766889658990109
+      Bridges_29: -4082305272396342405
+      Bridges_3: -7964094763856153742
+      Bridges_30: 380422888464905999
+      Bridges_31: -2724366520324821158
+      Bridges_32: 4129925864477081245
+      Bridges_33: -4289767493172946810
+      Bridges_34: 5566442099181476180
+      Bridges_35: -8194699392519077906
+      Bridges_36: 2280929260801706212
+      Bridges_37: 6962183986130883832
+      Bridges_38: -4290205363805962314
+      Bridges_39: 6701698834379133740
+      Bridges_4: -5928713052716369325
+      Bridges_40: -7521958950324595919
+      Bridges_41: -8123510003919537064
+      Bridges_42: -2541574159767652530
+      Bridges_43: 6851373811908886726
+      Bridges_44: -2480927919729319992
+      Bridges_45: 4561225959952366851
+      Bridges_46: -3321621895948207572
+      Bridges_47: 9049579637393596784
+      Bridges_48: -7417987394790604435
+      Bridges_49: 3411305540371932881
+      Bridges_5: -2458347662786323051
+      Bridges_50: -6265091903316267679
+      Bridges_51: 5667170851398436454
+      Bridges_52: 6315277099526284357
+      Bridges_53: 1446909676069843538
+      Bridges_54: 6725523839156209809
+      Bridges_55: 2034115545728070844
+      Bridges_56: -4130523898192003680
+      Bridges_57: -7503560720495114686
+      Bridges_58: -501761862499462499
+      Bridges_59: 9182810127026824987
+      Bridges_6: 502732440738137211
+      Bridges_60: -5544318403833458607
+      Bridges_61: -7074535037658909605
+      Bridges_62: 3765138779123346791
+      Bridges_63: -8698142399219624615
+      Bridges_64: 9007035716597593568
+      Bridges_65: 166755764979190691
+      Bridges_66: 2264848036209591908
+      Bridges_67: 8883284129553131534
+      Bridges_68: -6334876632281024429
+      Bridges_69: 135331794146237707
+      Bridges_7: -4276752969576645033
+      Bridges_70: 4000704923661224303
+      Bridges_71: 5629816615025135219
+      Bridges_72: -2895973968488547477
+      Bridges_73: 8439073850548289408
+      Bridges_74: -1588411858933190938
+      Bridges_75: 4315125424628059491
+      Bridges_76: 1792315270634468763
+      Bridges_77: -2579746031976292799
+      Bridges_78: 3445308138296049640
+      Bridges_79: 363230061990796823
+      Bridges_8: 5169223617025914343
+      Bridges_80: -7527332140510034726
+      Bridges_81: -4822183946309253639
+      Bridges_82: 3675517630747155708
+      Bridges_83: 8235356580137803875
+      Bridges_84: -4467486044769985080
+      Bridges_85: 968008196456514761
+      Bridges_86: -8875700876339146198
+      Bridges_87: 5642033618601905656
+      Bridges_88: -2437327079999482391
+      Bridges_89: -8805553878787575583
+      Bridges_9: -4847967973376863162
+      Bridges_90: 2190085388876350627
+      Bridges_91: 8841638911288872992
+      Bridges_92: -4396751461572493711
+      Bridges_93: 4976289886345827456
+      Bridges_94: 4777984137568214128
+      Bridges_95: 1518435230222413061
+      Bridges_96: -6297020563562752851
+      Bridges_97: -8918130958781684668
+      Bridges_98: -2786480487380440177
+      Bridges_99: 4089707243732263687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

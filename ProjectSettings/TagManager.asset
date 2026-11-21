@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - NPC
+  - Enemy
+  - Interactable
+  - Obstacle
+  - Projectile
+  - Ground
+  - CameraBounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 200266803
+    locked: 0
+  - name: GroundDetails
+    uniqueID: 451481061
+    locked: 0
+  - name: Player
+    uniqueID: 1981334175
+    locked: 0
+  - name: AbovePlayer
+    uniqueID: 1477311817
+    locked: 0
+  - name: UI
+    uniqueID: 3066237681
+    locked: 0
+  m_RenderingLayers:
+  - Default
